@@ -60,6 +60,9 @@ public class Demo4Xpath {
 
    */
 
+
+
+
    //// going with text()
         //WebElement srchbx = driver.findElement(By.xpath("//input [starts-with (@id, 'search_query')]"));
         //srchbx.sendKeys("T-shirts");
