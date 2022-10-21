@@ -56,4 +56,12 @@ Explaining TDD
 https://juristr.com/blog/2010/10/test-driven-development-and-automated/
 https://martinfowler.com/bliki/TestDrivenDevelopment.html
 https://www.barbarianmeetscoding.com/blog/learning-test-driven-development-with-kent-beck
+
+ TDD Metaphors
+How to Explain TDD
+https://medium.com/@dagmaraszkurat/how-i-explained-tdd-to-a-non-developer-friend-and-got-a-job-offer-over-tacos-b881895182c5
+TDD Metaphor
+https://juristr.com/blog/2010/10/test-driven-development-and-automated/
+
+
  */
